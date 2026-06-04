@@ -59,6 +59,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/realredz/BloxFruits/r
 	  loadstring(game:HttpGet("https://raw.githubusercontent.com/Teddyseetink/Haidepzai/refs/heads/main/TeddyHub.lua"))()
   end
   }
+	
   AddButton(Tab2o, {
      Name = "Toasty Hub",
     Callback = function()
